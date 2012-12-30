@@ -1,4 +1,4 @@
 data-dive
 =========
 
-Programs for practice on MapReduce and Hadoop
+Mapreduce programming practice for newbies
